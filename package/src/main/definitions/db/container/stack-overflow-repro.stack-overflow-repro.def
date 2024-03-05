@@ -1,0 +1,45 @@
+begin container
+   name           : stack-overflow-repro.stack-overflow-repro
+   type           : 2
+   num-references : 7
+   timestamp      : 1709622943
+   owner          : stack-overflow-repro
+   last-changed   : ARSERVER
+   export-version : 12
+   object-prop    : 5\90019\2\10\90016\4\1\1\90021\4\41\stack-overflow-repro.stack-overflow-repro\90015\2\4\90002\4\41\stack-overflow-repro.stack-overflow-repro\
+reference {
+   type           : 32839
+   datatype       : 1
+   value          : 2\2\
+}
+reference {
+   type           : 32839
+   datatype       : 1
+   value          : 2\2\
+}
+reference {
+   type           : 32849
+   datatype       : 1
+   value          : 0\
+}
+reference {
+   type           : 16
+   datatype       : 1
+   value          : 4\58\stack-overflow-repro.stack-overflow-repro:BMC Modern Shell\
+}
+reference {
+   type           : 32839
+   datatype       : 1
+   value          : 2\2\
+}
+reference {
+   type           : 32847
+   datatype       : 1
+   value          : 0\
+}
+reference {
+   type           : 14
+   datatype       : 1
+   value          : 4\48\stack-overflow-repro.stack-overflow-repro:Fruits\
+}
+end

@@ -1,0 +1,84 @@
+begin localizable string
+   name           : LSGADG1AAP0IDASJVCZ5SJVCZ5NYSO
+   timestamp      : 1709619675
+   owner          : Demo
+   last-changed   : Demo
+   bundle         : stack-overflow-repro.stack-overflow-repro
+   stringId       : 3218c64e-a2bc-4527-8918-2d468a9d2189
+   owner-objects  : 35\0
+   object-prop    : 3\60093\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Assigned
+end
+begin localizable string
+   name           : LSGADG1AAP0IDASJVCZ5SJVCZ5NYSQ
+   timestamp      : 1709619675
+   owner          : Demo
+   last-changed   : Demo
+   bundle         : stack-overflow-repro.stack-overflow-repro
+   stringId       : 42539fcc-71f0-4e4a-b2a0-955057463c69
+   owner-objects  : 35\0
+   object-prop    : 3\60093\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Rejected
+end
+begin localizable string
+   name           : LSGADG1AAP0IDASJVCZ5SJVCZ5NYSP
+   timestamp      : 1709619675
+   owner          : Demo
+   last-changed   : Demo
+   bundle         : stack-overflow-repro.stack-overflow-repro
+   stringId       : 4c40a70f-c922-4d6c-9ca2-7477f8286d15
+   owner-objects  : 35\0
+   object-prop    : 3\60093\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Fixed
+end
+begin localizable string
+   name           : LSGADG1AAP0IDASJVCZ5SJVCZ5NYSS
+   timestamp      : 1709619675
+   owner          : Demo
+   last-changed   : Demo
+   bundle         : stack-overflow-repro.stack-overflow-repro
+   stringId       : 6f48adf1-fafc-4e50-9d31-a31bf8c92cb1
+   owner-objects  : 35\0
+   object-prop    : 3\60093\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Not Listening
+end
+begin localizable string
+   name           : LSGADG1AAP0IDASJVCZ5SJVCZ5NYST
+   timestamp      : 1709619675
+   owner          : Demo
+   last-changed   : Demo
+   bundle         : stack-overflow-repro.stack-overflow-repro
+   stringId       : 71410a7f-039d-42ae-84b9-0cdf7c177ce6
+   owner-objects  : 35\0
+   object-prop    : 3\60093\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Listening
+end
+begin localizable string
+   name           : LSGADG1AAP0IDASJVCZ5SJVCZ5NYSR
+   timestamp      : 1709619675
+   owner          : Demo
+   last-changed   : Demo
+   bundle         : stack-overflow-repro.stack-overflow-repro
+   stringId       : a6dd406b-1e14-4502-844b-eeff66c6d977
+   owner-objects  : 35\0
+   object-prop    : 3\60093\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : Closed
+end
+begin localizable string
+   name           : LSGADG1AAP0IDASJVCZ5SJVCZ5NYSN
+   timestamp      : 1709619675
+   owner          : Demo
+   last-changed   : Demo
+   bundle         : stack-overflow-repro.stack-overflow-repro
+   stringId       : c9280831-3a24-44e2-bfd4-e01a8f4952ec
+   owner-objects  : 35\0
+   object-prop    : 3\60093\0\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : New
+end
